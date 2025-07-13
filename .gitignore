@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+package-lock.json
+
+# Docker
+*.log
+docker-compose.override.yml
+.docker/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Editor (VS Code, JetBrains, etc)
+.vscode/
+.idea/
+
+# Test coverage (se usar)
+coverage/
+
+# Arquivos temporários
+*.swp
+*.swo
